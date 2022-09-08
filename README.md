@@ -6,10 +6,10 @@ README.md dosyası bir adet de index.html barındırıyor.
 ## Installation
 Projeyi Clonladım. (Buraya sizin reponuzdan aldığınız link gelecek)
 
-``
+```
 git clone [https://github.com/tugrulaydos/kodluyoruzilkrepo](https://github.com/tugrulaydos/kodluyoruzilkrepo)
 
-``
+```
 
 ## Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
